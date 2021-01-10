@@ -9,6 +9,8 @@ Thanks to [**@topaz**](https://github.com/topaz) for creating [AoC](https://adve
 
 <pre>      --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 14       &gt;24h  36660      0       &gt;24h  32881      0
+ 13       &gt;24h  43656      0       &gt;24h  33759      0
  12       &gt;24h  45250      0       &gt;24h  41958      0
  11       &gt;24h  46970      0       &gt;24h  42892      0
  10   23:44:18  41275      0       &gt;24h  46908      0
