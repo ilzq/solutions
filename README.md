@@ -1,11 +1,9 @@
-# Advent of Code 🎄
+# Advent of Code
 
 [![License is MIT](https://img.shields.io/github/license/N-l1/advent-of-code?style=flat-square)](https://github.com/N-l1/advent-of-code/blob/main/LICENSE) 
 [![The https://github.com/N-l1/advent-of-code/blob/main/LICENSE is N-l1](https://img.shields.io/badge/maintainer-N--l1-blue?style=flat-square)](https://github.com/N-l1)
 
-This is my first real use of Python apart from the theoretical learning. Nowhere close to being the best and cleanest code. Just hacked together into something that works while having fun and learning. 
-
-Thanks to [**@topaz**](https://github.com/topaz) for creating [AoC](https://adventofcode.com) ✨ 
+This is my first real use of Python apart from the theoretical learning. Not the cleanest nor most efficient code, just hacked together into something that works while having fun and learning. Kudos to [**@topaz**](https://github.com/topaz) for creating [AoC](https://adventofcode.com)!
 
 <pre>      --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
