@@ -1,7 +1,5 @@
 # Advent of Code
 
-> Helping santa save Christmas, one ⭐ at a time!
-
 [AoC](https://adventofcode.com) is an annual event leading up to Christmas created by [@topac](https://github.com/topaz) where one solves problems to earn stars.
 
 AoC has been my first projects with Python & JS. A great way to learn! Here are my solutions.
